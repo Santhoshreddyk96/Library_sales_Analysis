@@ -540,5 +540,5 @@ This project demonstrates the application of SQL skills in creating and managing
 
 ## Author - santhosh reddy
 
-
+- **LinkedIn**: [Connect with me professionally]((https://www.linkedin.com/in/santhoshreddy45/))
 Thank you for your interest in this project!
